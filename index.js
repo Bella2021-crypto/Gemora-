@@ -1,0 +1,1 @@
+export default function LegacyIndex(){return (<div style={{padding:20}}>Gemora is running.</div>);}
